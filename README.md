@@ -3,6 +3,7 @@ Made by the Gulag Development (https://discord.gg/TcyymANP) Team!
 ADD WHATEVER THE FUCK YOU WANT
 THIS IS A SHITPOST
 ADD DOCKERS, ADD C# FILES WHO THE FUCK CARES.
+(Make sure to make an issue with the label "join" if you want to join!)
 HERE, HERE IS JABIBI AMOGUS
 
 JABIBI AMONGUS 😂😂😂
