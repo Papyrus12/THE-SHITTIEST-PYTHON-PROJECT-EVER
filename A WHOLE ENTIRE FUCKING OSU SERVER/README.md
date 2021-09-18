@@ -1,6 +1,12 @@
 [![Discord](https://discordapp.com/api/guilds/748687781605408908/widget.png?style=shield)](https://discord.gg/ShEQgUx)
 
-gulag is my implementation of an osu! server's backend; it handles connections
+
+THIS IS EDITABLE!!!
+
+
+
+
+gulag is cmyui's implementation of an osu! server's backend; it handles connections
 from the osu! client, and has a developer rest api for programmatic interaction.
 
 it's asynchronous design allows it to very efficiently manage the io overhead of an
