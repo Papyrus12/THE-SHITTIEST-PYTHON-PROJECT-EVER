@@ -1,0 +1,7 @@
+/.vscode
+__pycache__/
+/config.py
+/.data
+_testing/
+*.lprof
+ext/GeoLite2-City.mmdb
