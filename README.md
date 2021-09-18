@@ -18,3 +18,11 @@ The file should be formatted like:
 PORT 433 (Enter Name here)
 PORT 80 (Papyrus12)
 ```
+
+
+
+
+And lastly, Don't edit others files without their permission.
+UNLESS THEY  MAKE A README CLARIFYING THAT THEIR PART IS OPEN-SOURCE
+
+Have fun!
